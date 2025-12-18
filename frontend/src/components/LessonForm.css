@@ -1,0 +1,47 @@
+.lesson-form {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 25px;
+    background-color: #f7f7f7;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    font-family: Arial, sans-serif;
+}
+
+.lesson-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.lesson-form input,
+.lesson-form textarea {
+  width: 100%;
+  padding: 10px 12px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+.lesson-form textarea {
+  resize: vertical;
+  min-height: 80px;
+}
+
+.lesson-form button {
+  width: 100%;
+  padding: 12px;
+  background-color: #050505;
+  border: none;
+  color: white;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.lesson-form button:hover {
+  background-color: #555555;
+}
