@@ -29,7 +29,7 @@ npm run dev
 
 # Какие решения принял и почему
 
-Backend C# Web Api
+###Backend C# Web Api
 
 Почему выбрал:
 -Знаком с C# и .NET
@@ -43,7 +43,7 @@ Backend C# Web Api
 -Выполнил миграцию
 -Настроил CORS для работы с фронтом
 
-Frontend React JS + Vite
+###Frontend React JS + Vite
 
 Почему выбрал:
 -Изучал больше React, а так же хорошо подходит для построения удобного интерфейса
