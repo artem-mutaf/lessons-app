@@ -5,8 +5,8 @@
 # Структура проекта
 
 lessons-app/
- --backend/ # C# Web API проект
- --frontend/ # React 
+ - backend/ # C# Web API проект
+ - frontend/ # React 
 
 ### Установка и запуск
 
