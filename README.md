@@ -15,17 +15,17 @@ Backend
 1. Открываем папку backend в **Rider** или **Visual Studio**.
 2. В терминале выполняем:
 
-dotnet restore
-dotnet run
+- dotnet restore
+- dotnet run
 
 Frontend
 
 1. Открываем папку frontend в Visual Studio Code
 2. В терминале выполняем:
 
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
 # Какие решения принял и почему
 
